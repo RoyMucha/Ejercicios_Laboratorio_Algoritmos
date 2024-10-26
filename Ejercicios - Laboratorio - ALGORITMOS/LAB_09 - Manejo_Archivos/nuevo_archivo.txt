@@ -1,0 +1,21 @@
+Lenguajes de Programación
+==========================
+Los lenguajes de programación son herramientas fundamentales en el desarrollo de software. A continuación se listan algunos de los lenguajes más populares:
+
+Estos son los tipos de lenguajes
+1. Python:
+   - Popular por su sintaxis sencilla y versatilidad.
+   - Muy utilizado en ciencia de datos, inteligencia artificial y desarrollo web.
+
+2. JavaScript:
+   - Lenguaje principal para desarrollo web en el lado del cliente.
+   - Compatible con frameworks como React y Node.js para desarrollo full-stack.
+
+3. Java:
+   - Usado en aplicaciones empresariales y desarrollo de Android.
+   - Es conocido por su filosofía 'escribe una vez, ejecuta en cualquier lugar'.
+
+4. C++:
+   - Un lenguaje de alto rendimiento usado en sistemas embebidos y videojuegos.
+   - Proporciona control detallado sobre la memoria del sistema.
+

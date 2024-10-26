@@ -1,0 +1,24 @@
+Título: La Historia de la Programación
+
+La programación es el proceso de escribir, probar y mantener el código que 
+permite a los programas informáticos funcionar correctamente. 
+Comenzó en el siglo XX y ha evolucionado significativamente, 
+con lenguajes como COBOL, Fortran, C, Python, y Java.
+
+Algunos conceptos clave de la programación son:
+1. Algoritmos: Secuencia de pasos para resolver un problema.
+2. Variables: Espacios de memoria donde se almacenan datos.
+3. Funciones: Bloques de código que realizan tareas específicas.
+
+Lenguajes más populares:
+- Python
+- JavaScript
+- Java
+- C++
+- Ruby
+
+La programación es fundamental en la era moderna, impulsando avances 
+tecnológicos en múltiples sectores como la medicina, la ingeniería, 
+y el entretenimiento.
+
+
